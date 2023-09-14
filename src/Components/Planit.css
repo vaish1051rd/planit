@@ -1,0 +1,41 @@
+
+.planit-container {
+    background-color: #e6f7ff; /* Light blue background */
+  }
+  .header {
+    text-align: center;
+    background-color: #008080;
+    color: #ffffff;
+    width: 100%;
+  }
+  /* Header text color */
+  .task-header {
+    color: #008080; /* Dark teal text color */
+  }
+  
+  /* Task item background and text color */
+  .task-item {
+    background-color: #ffffff; /* White background */
+    color: #000000; /* Black text color */
+  }
+  
+  /* Completed task item background and text color */
+  .completed-task {
+    background-color: #90ee90; /* Light green background for completed tasks */
+    color: #000000; /* Black text color for completed tasks */
+  }
+  
+  /* Add Task Button background and text color */
+  .add-task-button {
+    background-color: #6cc6c6; /* lightgreen background for the Add Task button */
+    color: #ffffff; /* White text color for the Add Task button */
+  }
+  .footer {
+    background-color: #008080; /* Dark teal background for the footer */
+    color: #ffffff; /* White text color for the footer */
+     
+    text-align: center; /* Center-align the text within the footer */
+    position: absolute; /* Position the footer absolutely */
+    bottom: 0; /* Stick the footer to the bottom of the parent container */
+    width: 100%; /* Set the width to 100% to span the entire parent container */
+  }

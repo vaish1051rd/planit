@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -73,3 +74,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 # Plan-It
 created using React. 
 >>>>>>> 23f0985189243dee205cc4ef69d219a29bfff003
+=======
+# planit
+using react
+>>>>>>> a7f44df53713ef51b6b100e1d55082f6be9500fa

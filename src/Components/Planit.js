@@ -36,7 +36,9 @@ import styles from './Planit.css';
     console.log('render')
     return (
       <div className={'planit-container'}>
-        <h4 className='header'>Be More Productive :)</h4>
+        <h1 className='header'>Be More Productive :) Make your own list</h1>
+        
+        
         <input type="text" value={this.state.currTask} onChange={this.handlechange} className={'task-item'}/>
         <button onClick={this.handleSubmit}  className={'add-task-button'} >Submit</button>
         <ul>
@@ -55,6 +57,7 @@ import styles from './Planit.css';
 
           </p>
         </div>
+        {/* <img src={require('./download.jpg')} alt="img"></img> */}
       </div>
     )
   }
